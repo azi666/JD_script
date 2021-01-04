@@ -24,6 +24,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/azi666/JD_script.git"
-          source_branch: "master"
+          source_branch: "main"
           destination_branch: "main"
           github_token: ${{ secrets.PAT || github.event.client_payload.PAT }}
