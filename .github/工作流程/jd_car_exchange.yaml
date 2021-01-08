@@ -47,9 +47,3 @@ jobs:
                   PUSH_PLUS_TOKEN: ${{ secrets.PUSH_PLUS_TOKEN || github.event.client_payload.PUSH_PLUS_TOKEN }}
                   PUSH_PLUS_USER: ${{ secrets.PUSH_PLUS_USER || github.event.client_payload.PUSH_PLUS_USER }}
                   SYNCURL: https://github.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
