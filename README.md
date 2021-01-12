@@ -41,7 +41,9 @@
 
 上面四步搞定后就不用管了。
 
-更多Secrets配置[点击查看](backup/secrets.md)
+(时效性较慢)更多Secrets配置[点击查看](backup/secrets.md)
+
+(时效性较快)lxk0301-Secrets配置[点击查看](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md)
 
 
 > 具体如何取 cookie 如何配置,可参考 [lxk0301 的获取京东Cookies教程](https://github.com/lxk0301/jd_scripts/blob/master/githubAction.md#%E4%BA%AC%E4%B8%9Ccookie)
